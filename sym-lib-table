@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TI-SN74HC7001-SOIC)(type Legacy)(uri ${KIPRJMOD}/TI-SN74HC7001-SOIC.lib)(options "")(descr ""))
+)

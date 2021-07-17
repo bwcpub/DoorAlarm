@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC7001
+D Quad 2-Input AND gate with Schmitt Trigger - DIP or SOIC
+K HCMOS and 2-input schmitt
+F https://www.ti.com/lit/ds/symlink/sn74hc7001.pdf
+$ENDCMP
+#
+#End Doc Library
