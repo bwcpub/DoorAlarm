@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\makoto\Documents\KiCad\FreezerDoorAlarm\FreezerDoorAlarm.sch)
-    (date "7/15/2021 7:41:08 PM")
+    (date "7/17/2021 6:47:32 PM")
     (tool "Eeschema (5.1.10)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -595,7 +595,7 @@
       (node (ref C7) (pin 1))
       (node (ref Q6) (pin 3))
       (node (ref U2) (pin 13))
-      (node (ref R13) (pin 2)))
+      (node (ref R13) (pin 1)))
     (net (code 14) (name "Net-(J4-Pad1)")
       (node (ref J4) (pin 1))
       (node (ref Q8) (pin 3)))
@@ -613,7 +613,7 @@
       (node (ref U2) (pin 11)))
     (net (code 17) (name "Net-(Q7-Pad3)")
       (node (ref Q7) (pin 3))
-      (node (ref R13) (pin 1)))
+      (node (ref R13) (pin 2)))
     (net (code 18) (name "Net-(C4-Pad1)")
       (node (ref U2) (pin 2))
       (node (ref U2) (pin 1))

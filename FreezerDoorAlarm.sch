@@ -748,7 +748,7 @@ F 1 "20k" V 9245 4050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 9350 4050 50  0001 C CNN
 F 3 "~" H 9350 4050 50  0001 C CNN
 	1    9350 4050
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	9450 4050 9600 4050
